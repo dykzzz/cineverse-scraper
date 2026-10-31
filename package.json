@@ -1,7 +1,7 @@
 {
-  "name": "lolokcinema-scraper",
+  "name": "cineverse-scraper",
   "version": "1.0.0",
-  "description": "LolokCinema scraping backend",
+  "description": "Cineverse scraping backend",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
